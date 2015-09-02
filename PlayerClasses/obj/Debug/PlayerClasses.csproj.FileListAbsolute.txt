@@ -1,0 +1,7 @@
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\bin\Debug\PlayerClasses.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\bin\Debug\PlayerClasses.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\bin\Debug\PlayerStatisics.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\bin\Debug\PlayerStatisics.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.pdb

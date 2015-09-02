@@ -1,0 +1,8 @@
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\PlayerStatisticsTests.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\PlayerStatisticsTests.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\nunit.framework.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\PlayerStatisics.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\PlayerStatisics.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.pdb

@@ -1,0 +1,8 @@
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\EquipmentUnitTest.dll
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\EquipmentUnitTest.pdb
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\Equipment.dll
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\nunit.framework.dll
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\Equipment.pdb
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.dll
+E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.pdb

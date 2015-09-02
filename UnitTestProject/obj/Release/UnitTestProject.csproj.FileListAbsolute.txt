@@ -1,0 +1,8 @@
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\bin\Release\UnitTestProject.dll
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\bin\Release\UnitTestProject.pdb
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\bin\Release\nunit.framework.dll
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\bin\Release\ZachsCharacterGenerater.exe
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\bin\Release\ZachsCharacterGenerater.pdb
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\obj\Release\UnitTestProject.dll
+E:\C# Projects\ZachsCharacterGenerater\UnitTestProject\obj\Release\UnitTestProject.pdb

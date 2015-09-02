@@ -1,0 +1,10 @@
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerClassUnitTest.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerClassUnitTest.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\nunit.framework.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerClasses.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerStatisics.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerClasses.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerStatisics.pdb
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.dll
+E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.pdb

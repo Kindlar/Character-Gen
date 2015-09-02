@@ -1,0 +1,13 @@
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Release\ZachsCharacterGenerater.exe.config
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Release\ZachsCharacterGenerater.exe
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Release\ZachsCharacterGenerater.pdb
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.characterForm.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.featForm.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.equipmentForm.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.Properties.Resources.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.skillForm.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.spellForm.resources
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.csproj.GenerateResource.Cache
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.exe
+E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\obj\Release\ZachsCharacterGenerater.pdb

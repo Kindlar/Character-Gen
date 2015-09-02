@@ -1,0 +1,4 @@
+E:\C# Projects\ZachsCharacterGenerater\CodedUITest\bin\Release\CodedUITest.dll
+E:\C# Projects\ZachsCharacterGenerater\CodedUITest\bin\Release\CodedUITest.pdb
+E:\C# Projects\ZachsCharacterGenerater\CodedUITest\obj\Release\CodedUITest.dll
+E:\C# Projects\ZachsCharacterGenerater\CodedUITest\obj\Release\CodedUITest.pdb

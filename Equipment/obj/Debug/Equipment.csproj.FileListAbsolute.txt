@@ -1,0 +1,12 @@
+F:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\Equipment.dll
+F:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\Equipment.pdb
+F:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\PlayerStatisics.dll
+F:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\PlayerStatisics.pdb
+F:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.csprojResolveAssemblyReference.cache
+F:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.dll
+F:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.pdb
+E:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\Equipment.dll
+E:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\Equipment.pdb
+E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.csprojResolveAssemblyReference.cache
+E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.dll
+E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.pdb
