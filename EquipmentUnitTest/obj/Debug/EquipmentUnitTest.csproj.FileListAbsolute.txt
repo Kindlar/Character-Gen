@@ -6,3 +6,11 @@ E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\bin\Debug\Equipment.pdb
 E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.dll
 E:\C# Projects\ZachsCharacterGenerater\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.pdb
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\bin\Debug\EquipmentUnitTest.dll
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\bin\Debug\EquipmentUnitTest.pdb
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\bin\Debug\Equipment.dll
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\bin\Debug\nunit.framework.dll
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\bin\Debug\Equipment.pdb
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.dll
+H:\Code\GitHub\Character-Gen\EquipmentUnitTest\obj\Debug\EquipmentUnitTest.pdb

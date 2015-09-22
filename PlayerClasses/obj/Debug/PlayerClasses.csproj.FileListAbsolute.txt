@@ -5,3 +5,10 @@ E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\bin\Debug\PlayerStatisics.p
 E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.dll
 E:\C# Projects\ZachsCharacterGenerater\PlayerClasses\obj\Debug\PlayerClasses.pdb
+H:\Code\GitHub\Character-Gen\PlayerClasses\bin\Debug\PlayerClasses.dll
+H:\Code\GitHub\Character-Gen\PlayerClasses\bin\Debug\PlayerClasses.pdb
+H:\Code\GitHub\Character-Gen\PlayerClasses\bin\Debug\PlayerStatisics.dll
+H:\Code\GitHub\Character-Gen\PlayerClasses\bin\Debug\PlayerStatisics.pdb
+H:\Code\GitHub\Character-Gen\PlayerClasses\obj\Debug\PlayerClasses.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\PlayerClasses\obj\Debug\PlayerClasses.dll
+H:\Code\GitHub\Character-Gen\PlayerClasses\obj\Debug\PlayerClasses.pdb

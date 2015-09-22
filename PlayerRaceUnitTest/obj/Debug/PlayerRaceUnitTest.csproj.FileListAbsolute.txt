@@ -6,3 +6,11 @@ E:\C# Projects\ZachsCharacterGenerater\PlayerRaceUnitTest\bin\Debug\PlayerRaces.
 E:\C# Projects\ZachsCharacterGenerater\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.dll
 E:\C# Projects\ZachsCharacterGenerater\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.pdb
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\bin\Debug\PlayerRaceUnitTest.dll
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\bin\Debug\PlayerRaceUnitTest.pdb
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\bin\Debug\nunit.framework.dll
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\bin\Debug\PlayerRaces.dll
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\bin\Debug\PlayerRaces.pdb
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.dll
+H:\Code\GitHub\Character-Gen\PlayerRaceUnitTest\obj\Debug\PlayerRaceUnitTest.pdb

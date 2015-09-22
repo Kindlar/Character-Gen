@@ -16,3 +16,21 @@ E:\C# Projects\ZachsCharacterGenerater\PlayerClassesTests\obj\Debug\PlayerClasse
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassesTests\obj\Debug\PlayerClassesTests.pdb
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassesTests\bin\Debug\AutoMapper.dll
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassesTests\bin\Debug\AutoMapper.xml
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerClassesTests.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerClassesTests.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\nunit.framework.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerClasses.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerRaces.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerStatisics.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\ZachsCharacterGenerater.exe
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\Equipment.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\AutoMapper.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerClasses.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerRaces.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\PlayerStatisics.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\ZachsCharacterGenerater.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\Equipment.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\bin\Debug\AutoMapper.xml
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\obj\Debug\PlayerClassesTests.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\obj\Debug\PlayerClassesTests.dll
+H:\Code\GitHub\Character-Gen\PlayerClassesTests\obj\Debug\PlayerClassesTests.pdb

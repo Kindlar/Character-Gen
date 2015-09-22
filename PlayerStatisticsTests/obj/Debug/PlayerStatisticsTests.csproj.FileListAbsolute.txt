@@ -6,3 +6,11 @@ E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\bin\Debug\PlayerSta
 E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.dll
 E:\C# Projects\ZachsCharacterGenerater\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.pdb
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\bin\Debug\PlayerStatisticsTests.dll
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\bin\Debug\PlayerStatisticsTests.pdb
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\bin\Debug\nunit.framework.dll
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\bin\Debug\PlayerStatisics.dll
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\bin\Debug\PlayerStatisics.pdb
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.dll
+H:\Code\GitHub\Character-Gen\PlayerStatisticsTests\obj\Debug\PlayerStatisticsTests.pdb

@@ -1,12 +1,12 @@
 ﻿namespace ZachsCharacterGenerater
 {
     using AutoMapper;
+    using Classes;
+    using Equipment;
     using PlayerStatisics;
     using System;
     using System.Drawing;
     using System.Windows.Forms;
-    using Classes;
-    using Equipment;
     using static Matchers;
 
     public partial class CharacterForm : Form
@@ -63,7 +63,7 @@
             }
             else
             {
-                MessageBox.Show("You need to select a class, race, or level.");
+                MessageBox.Show(@"You need to select a class, race, or level.");
             }
         }
 

@@ -51,3 +51,22 @@ E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Debug\ZachsCh
 E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Debug\ZachsCharacterGenerater.pdb
 E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Debug\AutoMapper.dll
 E:\C# Projects\ZachsCharacterGenerater\ZachsCharacterGenerater\bin\Debug\AutoMapper.xml
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\ZachsCharacterGenerater.exe.config
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.exe
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\ZachsCharacterGenerater.exe
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\ZachsCharacterGenerater.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\AutoMapper.dll
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\Equipment.dll
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerClasses.dll
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerRaces.dll
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerStatisics.dll
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\Equipment.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerClasses.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerRaces.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\PlayerStatisics.pdb
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\bin\Debug\AutoMapper.xml
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.CharacterForm.resources
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.Properties.Resources.resources
+H:\Code\GitHub\Character-Gen\ZachsCharacterGenerater\obj\Debug\ZachsCharacterGenerater.csproj.GenerateResource.Cache

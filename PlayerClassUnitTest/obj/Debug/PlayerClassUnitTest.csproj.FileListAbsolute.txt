@@ -8,3 +8,13 @@ E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\bin\Debug\PlayerStati
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.dll
 E:\C# Projects\ZachsCharacterGenerater\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerClassUnitTest.dll
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerClassUnitTest.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\nunit.framework.dll
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerClasses.dll
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerStatisics.dll
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerClasses.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\bin\Debug\PlayerStatisics.pdb
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.dll
+H:\Code\GitHub\Character-Gen\PlayerClassUnitTest\obj\Debug\PlayerClassUnitTest.pdb

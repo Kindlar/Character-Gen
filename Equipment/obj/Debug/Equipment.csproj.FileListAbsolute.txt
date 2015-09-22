@@ -10,3 +10,8 @@ E:\C# Projects\ZachsCharacterGenerater\Equipment\bin\Debug\Equipment.pdb
 E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.csprojResolveAssemblyReference.cache
 E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.dll
 E:\C# Projects\ZachsCharacterGenerater\Equipment\obj\Debug\Equipment.pdb
+H:\Code\GitHub\Character-Gen\Equipment\bin\Debug\Equipment.dll
+H:\Code\GitHub\Character-Gen\Equipment\bin\Debug\Equipment.pdb
+H:\Code\GitHub\Character-Gen\Equipment\obj\Debug\Equipment.csprojResolveAssemblyReference.cache
+H:\Code\GitHub\Character-Gen\Equipment\obj\Debug\Equipment.dll
+H:\Code\GitHub\Character-Gen\Equipment\obj\Debug\Equipment.pdb
